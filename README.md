@@ -47,7 +47,7 @@
 | Platform | Requirements | Notes |
 | :--- | :--- | :--- |
 | **macOS** | macOS 10.13 High Sierra or later | Intel Processor. *Apple Silicon (M1/M2/M3/M4) models require Rosetta 2.* |
-| **Windows** | Windows 10 (32-bit & 64-bit) / Windows 11 | Direct executable. |
+| **Windows** | Windows 10 (32-bit) & Windows 10/11 (64-bit) | Direct executable. |
 | **Web Version** | Any modern web browser | Lightweight original HTML/JS build. |
 
 > ⚠️ **Windows Warning Note:**  
