@@ -1,3 +1,11 @@
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://irdurdev.itch.io/pngtuber-tool)
+[![Latest Release](https://img.shields.io/github/v/release/IrdurDev/PNGtuber-Tool?sort=semver&display_name=tag)](https://github.com/IrdurDev/PNGtuber-Tool/releases/latest)
+![Windows 10 x32](https://img.shields.io/badge/Windows_10-x32-blue)
+![Windows 10 / 11 x64](https://img.shields.io/badge/Windows_10_%2F_11-x64-blue)
+![macOS 10.13+ Intel](https://img.shields.io/badge/macOS-10.13%2B_Intel-blue)
+
+
+
 # PNGtuber 🎭
 
 > A lightweight, lightweight-reactive avatar tool for streamers, content creators, and gamers.
