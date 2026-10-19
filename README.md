@@ -47,8 +47,8 @@
 | Platform | Requirements | Notes |
 | :--- | :--- | :--- |
 | **macOS** | macOS 10.13 High Sierra or later | Intel Processor. *Apple Silicon (M1/M2/M3/M4) models require Rosetta 2.* |
-| **Windows 10** | CPU x32-bit | Direct executable. |
-| **Windows 10/11** | CPU x64-bit | Direct executable. |
+| **Windows 10** | CPU x32-bits | Direct executable. |
+| **Windows 10/11** | CPU x64-bits | Direct executable. |
 
 > ⚠️ **Windows Warning Note:**  
 > Windows users may encounter a *SmartScreen / Potentially Unwanted Application* security warning upon execution. Because this project is not digitally signed with an expensive code-signing certificate, Windows flags it automatically. The software is completely safe, but execution requires clicking *"Run anyway"*.
