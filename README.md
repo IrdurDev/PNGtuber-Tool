@@ -30,6 +30,7 @@
 5. **Stream:**
    - Press **`H`** to hide/show the control panel UI.
    - Capture the window in OBS (or preferred streaming software). If using a green background, apply a *Chroma Key* filter.
+   - Press **`C`** to center the PNGtuber image.
 
 ---
 
