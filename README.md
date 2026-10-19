@@ -48,7 +48,6 @@
 | :--- | :--- | :--- |
 | **macOS** | macOS 10.13 High Sierra or later | Intel Processor. *Apple Silicon (M1/M2/M3/M4) models require Rosetta 2.* |
 | **Windows** | Windows 10 (32-bit) & Windows 10/11 (64-bit) | Direct executable. |
-| **Web Version** | Any modern web browser | Lightweight original HTML/JS build. |
 
 > ⚠️ **Windows Warning Note:**  
 > Windows users may encounter a *SmartScreen / Potentially Unwanted Application* security warning upon execution. Because this project is not digitally signed with an expensive code-signing certificate, Windows flags it automatically. The software is completely safe, but execution requires clicking *"Run anyway"*.
